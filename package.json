@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "vite --host",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "three": "^0.178.0",
+    "vite": "^7.0.4"
+  },
+  "name": "three",
+  "version": "1.0.0",
+  "description": "test for three",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC"
+}
