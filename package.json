@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "vite --host -d dist",
+    "dev": "vite --host",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
@@ -10,8 +10,8 @@
   },
   "name": "three",
   "version": "1.0.0",
-  "description": "test for three",
+  "description": "Learning three.js",
   "main": "main.js",
-  "author": "",
+  "author": "Brian Gonzalez",
   "license": "ISC"
 }
